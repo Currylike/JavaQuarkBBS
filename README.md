@@ -1,3 +1,5 @@
+这是我在知乎搜索可以入门的简易java项目的时候，  某个回答推荐的，  鉴于这是前后端分离的项目， 并且需要我掌握的前后端知识非常庞杂，加上spring架构我也并不熟悉，所以暂时mark， 留待以后学习。
+
 # JavaQuark社区
 
  [![License](https://img.shields.io/badge/license-Apache%202-4EB1BA.svg)](https://www.apache.org/licenses/LICENSE-2.0.html)
